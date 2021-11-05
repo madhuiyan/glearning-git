@@ -1,0 +1,8 @@
+Git Commands
+
+1. Initialise a repo
+	git init
+ 	a master branch is created 
+2. Status of the git repository
+	git status
+3.
