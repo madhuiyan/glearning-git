@@ -24,3 +24,20 @@ pulls the data from the github repo to local
 git pull
 
 git pull origin master
+
+
+--------------
+Branch
+
+To find which branch you are in 
+git branch
+
+To create new branch called feature branch
+git branch feature branch
+
+To switch from main branch to feature branch runt the following command
+git checkout feature-branch
+
+To push the file to feature-branch in remote run the following command
+git push --set-upstream origin feature-branch
+The feature-branch contents in local get committed in the remote repository
