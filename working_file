@@ -24,3 +24,18 @@ pulls the data from the github repo to local
 git pull
 
 git pull origin master
+
+
+--------------
+Branch
+
+To find which branch you are in 
+git branch
+
+To create new branch called feature branch
+git branch feature branch
+
+To switch from main branch to feature branch runt the following command
+git checkout feature-branch
+
+
