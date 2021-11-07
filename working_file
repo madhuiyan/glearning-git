@@ -20,5 +20,5 @@ set up two factor authentication
 Follow this youtube video for settinup the personal tocken for mac
 
 ------------
-
-
+pulls the data from the github repo to local 
+git pull
